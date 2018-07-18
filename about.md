@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-大家好，我是Ambcr，这是我的第一个博客。
+jdfklsj
 
 ### More Information
 
-暂时没有更多内容了。
+jdkfjsla
 
 ### Contact me
 
