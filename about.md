@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /关于我/
+permalink: /about/
 ---
 
 大家好，我是Ambcr，这是我的第一个博客。
